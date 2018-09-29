@@ -11,3 +11,5 @@ Software Architecture styles
 ## Serverless 
 
 [Introduction to Serverless Microservices](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)
+
+[Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
