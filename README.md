@@ -17,3 +17,14 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 [Introduction to Serverless Microservices](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)
 
 [Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
+
+
+# Examples
+
+## Galactic Fog Serverless platform architecture
+
+![](http://www.galacticfog.com/images/architecture.png)
+
+## Nuclio Serverless Platform
+
+![](https://github.com/nuclio/nuclio/raw/master/docs/assets/images/architecture.png)
