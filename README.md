@@ -1,6 +1,10 @@
 # sw-architecture-styles
 Software Architecture styles
 
+## Overview
+
+[Architecture Styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) Microsoft
+
 ## Microservices 
 
 [Microservices - Martin fowler and James Lewis](https://martinfowler.com/articles/microservices.html)
@@ -17,6 +21,8 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 [Introduction to Serverless Microservices](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)
 
 [Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
+
+[Serverless Applications: Architecture, Patterns and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/) Microsoft Azure
 
 
 # Examples
