@@ -35,8 +35,6 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 # Examples
 
 ## OpenWhisk
-![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
-
 ![](https://github.com/apache/incubator-openwhisk/raw/master/docs/images/OpenWhisk_flow_of_processing.png)
 
 ## Galactic Fog Serverless platform architecture
