@@ -16,6 +16,8 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 [Designing Event First Microservices - Lightbend (InfoQ Presentation)](https://www.infoq.com/presentations/microservices-events-first-design) 
 
+![](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/media/microservices-architecture.png)
+
 ## Serverless 
 
 [Introduction to Serverless Microservices](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)
@@ -24,10 +26,16 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 [Serverless Applications: Architecture, Patterns and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/) Microsoft Azure
 
+![Serverless Deployment model](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/media/serverless-monolith-migration.png)
+
+## Multi-Tenant 
+
+![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
 
 # Examples
 
 ## OpenWhisk
+![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
 
 ![](https://github.com/apache/incubator-openwhisk/raw/master/docs/images/OpenWhisk_flow_of_processing.png)
 
