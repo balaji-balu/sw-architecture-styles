@@ -34,7 +34,7 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ## GraphQL 
 
-![src: https://blog.apollographql.com/what-i-learned-at-graphql-summit-f61d6fc6680a](https://miro.medium.com/max/1400/0*tFMwtUDJ656B6Riq.png)
+![How Expedia Group replaced their BFF with a data graph and eliminated technical debt](https://miro.medium.com/max/1400/0*tFMwtUDJ656B6Riq.png)
 
 # Examples
 
