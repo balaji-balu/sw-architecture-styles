@@ -32,6 +32,10 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
 
+## GraphQL 
+
+![src: https://blog.apollographql.com/what-i-learned-at-graphql-summit-f61d6fc6680a](https://miro.medium.com/max/1400/0*tFMwtUDJ656B6Riq.png)
+
 # Examples
 
 ## OpenWhisk
