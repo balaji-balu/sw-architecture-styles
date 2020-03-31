@@ -40,6 +40,14 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 2. [Data Source Pattern used by Zillow Group on Trulia.com](https://blog.apollographql.com/what-i-learned-at-graphql-summit-f61d6fc6680a)
 ![](https://miro.medium.com/max/1400/1*tOS23fIarfV57vgCg0h3-A.png)
 
+## Containers & Orchestration
+
+https://rancher.com/docs/k3s/latest/en/architecture/
+
+![](https://k3s.io/images/how-it-works-k3s.svg)
+
+![](https://rancher.com/docs/img/rancher/k3s-architecture-single-server.png)
+
 # Examples
 
 ## OpenWhisk
