@@ -28,6 +28,9 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ![Serverless Deployment model](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/media/serverless-monolith-migration.png)
 
+[OpenFaaS open cloud ci/cd workflow](https://github.com/openfaas/openfaas-cloud)
+
+![](https://github.com/openfaas/openfaas-cloud/raw/master/docs/ofc-github-conceptual.png)
 ## Multi-Tenant 
 
 ![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
