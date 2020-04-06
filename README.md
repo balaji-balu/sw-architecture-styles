@@ -31,6 +31,12 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 [OpenFaaS open cloud ci/cd workflow](https://github.com/openfaas/openfaas-cloud)
 
 ![](https://github.com/openfaas/openfaas-cloud/raw/master/docs/ofc-github-conceptual.png)
+
+
+[]()
+
+![](https://www.webiny.com/static/webiny-server-side-1a92851e504dfa3b4cbd4e25a2c53853.svg)
+
 ## Multi-Tenant 
 
 ![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
