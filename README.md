@@ -51,6 +51,8 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ## Containers & Orchestration
 
+![](https://rancher.com/img/blog/2019/rio-revolutionizing-the-way-you-deploy-apps/image4.png)
+
 https://rancher.com/docs/k3s/latest/en/architecture/
 
 ![](https://k3s.io/images/how-it-works-k3s.svg)
