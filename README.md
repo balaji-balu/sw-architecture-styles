@@ -36,6 +36,7 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ### Structured in JSON Format
 
+```json
 { "eventVersion": "1.0",
 "userIdentity": {
     "type": "IAMUser",
@@ -77,4 +78,4 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
         ]
     }
 }
-
+```
