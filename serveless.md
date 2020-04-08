@@ -23,7 +23,7 @@
 
 ![](https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2020/04/01/bwasa-1-4-airline-architecture-1024x511.png)
 
-2. [Webiny - open source serveless CMS](https://www.webiny.com/)
+2. **[Webiny - open source serveless CMS](https://www.webiny.com/)**
 
 ![](https://www.webiny.com/static/webiny-server-side-1a92851e504dfa3b4cbd4e25a2c53853.svg)
 
@@ -31,11 +31,7 @@
 ![](https://github.com/apache/incubator-openwhisk/raw/master/docs/images/OpenWhisk_flow_of_processing.png)
 
 4. **Galactic Fog Serverless platform architecture**
-
 ![](http://www.galacticfog.com/images/architecture.png)
 
-
-
-3. **Nuclio Serverless Platform**
-
+5. **Nuclio Serverless Platform**
 ![](https://github.com/nuclio/nuclio/raw/master/docs/assets/images/architecture.png)
