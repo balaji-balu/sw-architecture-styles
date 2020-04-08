@@ -1,6 +1,8 @@
 # Serverless 
 
-1. **[Introduction to Serverless Microservices](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)**
+**[Cloud Native Computing Foundation - Serverless overview] https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview**
+
+1. **[Introduction to Serverless Microservices by Jeremy](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)**
 
 2. **[Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)**
 
