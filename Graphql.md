@@ -10,4 +10,6 @@
 
 3. [Data Source Pattern used by Zillow Group on Trulia.com](https://blog.apollographql.com/what-i-learned-at-graphql-summit-f61d6fc6680a)
 
+![](https://miro.medium.com/max/1400/1*tOS23fIarfV57vgCg0h3-A.png)
+
 
