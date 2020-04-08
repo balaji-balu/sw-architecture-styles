@@ -1,6 +1,6 @@
 # Serverless 
 
-**[Cloud Native Computing Foundation - Serverless overview] https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview**
+**[Cloud Native Computing Foundation - Serverless overview](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)**
 
 1. **[Introduction to Serverless Microservices by Jeremy](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)**
 
@@ -27,11 +27,17 @@
 
 ![](https://www.webiny.com/static/webiny-server-side-1a92851e504dfa3b4cbd4e25a2c53853.svg)
 
+
 3. **OpenWhisk**
+
 ![](https://github.com/apache/incubator-openwhisk/raw/master/docs/images/OpenWhisk_flow_of_processing.png)
 
+
 4. **Galactic Fog Serverless platform architecture**
+
 ![](http://www.galacticfog.com/images/architecture.png)
 
+
 5. **Nuclio Serverless Platform**
+
 ![](https://github.com/nuclio/nuclio/raw/master/docs/assets/images/architecture.png)
