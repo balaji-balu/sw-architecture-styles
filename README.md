@@ -1,11 +1,15 @@
 # sw-architecture-styles
 Software Architecture styles
 
-[Serverless](serveless.md) 
+## Table of Contents
 
-Containers and Orchestration 
+1. Microservices 
 
-GraphQL 
+2. [Serverless](serveless.md) 
+
+3. Containers and Orchestration 
+
+4. GraphQL 
 
 ## Overview
 
@@ -26,22 +30,6 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ## Serverless 
 
-[Introduction to Serverless Microservices](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)
-
-[Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
-
-[Serverless Applications: Architecture, Patterns and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/) Microsoft Azure
-
-![Serverless Deployment model](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/media/serverless-monolith-migration.png)
-
-[OpenFaaS open cloud ci/cd workflow](https://github.com/openfaas/openfaas-cloud)
-
-![](https://github.com/openfaas/openfaas-cloud/raw/master/docs/ofc-github-conceptual.png)
-
-
-[Webiny - open source serveless CMS](https://www.webiny.com/)
-
-![](https://www.webiny.com/static/webiny-server-side-1a92851e504dfa3b4cbd4e25a2c53853.svg)
 
 ## Multi-Tenant 
 
