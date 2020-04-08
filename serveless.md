@@ -37,6 +37,6 @@
 
 5. **Nuclio Serverless Platform**
 
-![](https://github.com/nuclio/nuclio/raw/master/docs/assets/images/architecture.png
+![](https://github.com/nuclio/nuclio/raw/master/docs/assets/images/architecture.png)
 
 
