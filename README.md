@@ -28,9 +28,6 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ![](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/media/microservices-architecture.png)
 
-## Serverless 
-
-
 ## Multi-Tenant 
 
 ![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
@@ -42,16 +39,6 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 2. [Data Source Pattern used by Zillow Group on Trulia.com](https://blog.apollographql.com/what-i-learned-at-graphql-summit-f61d6fc6680a)
 ![](https://miro.medium.com/max/1400/1*tOS23fIarfV57vgCg0h3-A.png)
-
-## Containers & Orchestration
-
-![](https://rancher.com/img/blog/2019/rio-revolutionizing-the-way-you-deploy-apps/image4.png)
-
-https://rancher.com/docs/k3s/latest/en/architecture/
-
-![](https://k3s.io/images/how-it-works-k3s.svg)
-
-![](https://rancher.com/docs/img/rancher/k3s-architecture-single-server.png)
 
 # Examples
 
