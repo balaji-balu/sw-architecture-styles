@@ -1,7 +1,7 @@
 # Serverless 
 
 ## Overview
-Serverless computing refers to the concept of building and running applications that do not require server management. It describes a finer-grained deployment model where applications, bundled as one or more functions, are uploaded to a platform and then executed, scaled, and billed in response to the exact demand needed at the moment. **[Cloud Native Computing Foundation - Serverless overview](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)**
+> Serverless computing refers to the concept of building and running applications that do not require server management. It describes a finer-grained deployment model where applications, bundled as one or more functions, are uploaded to a platform and then executed, scaled, and billed in response to the exact demand needed at the moment. **[Cloud Native Computing Foundation - Serverless overview](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)**
 
 1. **[Introduction to Serverless Microservices by Jeremy](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)**
 
