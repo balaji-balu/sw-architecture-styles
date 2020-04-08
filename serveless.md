@@ -13,10 +13,14 @@
 
 ## Frameworks
 
-4. **[OpenFaaS open cloud ci/cd workflow](https://github.com/openfaas/openfaas-cloud)**
+### OpenFaaS
+
+**[OpenFaaS open cloud ci/cd workflow](https://github.com/openfaas/openfaas-cloud)**
 
 ![](https://github.com/openfaas/openfaas-cloud/raw/master/docs/ofc-github-conceptual.png)
 
+**PLONK Stack**
+![](https://pbs.twimg.com/media/EAUzRV-XoAAL_4Z?format=jpg&name=4096x4096)
 
 ## Examples
 
