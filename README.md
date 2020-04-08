@@ -3,17 +3,22 @@ Software Architecture Design and styles
 
 ## Table of Contents
 
-1. Microservices 
+1. Cloud 
 
-2. [Serverless](serveless.md) 
+2. [Microservices](#microservices) 
 
-3. [Containers and Orchestration](Containers-and-orchestration.md) 
+3. [Serverless](serveless.md) 
 
-4. GraphQL 
+4. [Containers and Orchestration](Containers-and-orchestration.md) 
+
+5. [GraphQL](Graphql.md) 
 
 ## Overview
 
 [Architecture Styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) Microsoft
+
+## Cloud 
+
 
 ## Microservices 
 
