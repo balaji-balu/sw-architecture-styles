@@ -13,6 +13,10 @@
 
 ![](https://blog.cloudflare.com/content/images/2018/10/Artboard-42@3x.png)
 
+**Cloudflare workers**
+
+[JavaScript's Journey to the Edge by Ashley Williams | JSConf EU 2019]()
+
 ## Frameworks
 
 ### OpenFaaS
