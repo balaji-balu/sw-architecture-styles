@@ -11,6 +11,8 @@
 
 ![Serverless Deployment model](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/media/serverless-monolith-migration.png)
 
+![](https://blog.cloudflare.com/content/images/2018/10/Artboard-42@3x.png)
+
 ## Frameworks
 
 ### OpenFaaS
