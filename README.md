@@ -32,13 +32,7 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
 
-## GraphQL 
 
-1. [How Expedia Group replaced their BFF with a data graph and eliminated technical debt](https://blog.apollographql.com/what-i-learned-at-graphql-summit-f61d6fc6680a)
-![](https://miro.medium.com/max/1400/0*tFMwtUDJ656B6Riq.png)
-
-2. [Data Source Pattern used by Zillow Group on Trulia.com](https://blog.apollographql.com/what-i-learned-at-graphql-summit-f61d6fc6680a)
-![](https://miro.medium.com/max/1400/1*tOS23fIarfV57vgCg0h3-A.png)
 
 # Examples
 
