@@ -30,6 +30,10 @@
 
 ![](https://i.vimeocdn.com/video/817721889_640x360.jpg?r=pad)
 
+**OpenFaaS cloud conceptual Architecture** 
+
+![](https://raw.githubusercontent.com/openfaas/openfaas-cloud/master/docs/conceptual-overview.png)
+
 ## Examples
 
 1. [Airline App on AWS Serveless](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-introduction)
