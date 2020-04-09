@@ -29,6 +29,8 @@
 
 **[OpenFaaS open cloud ci/cd workflow](https://github.com/openfaas/openfaas-cloud)**
 
+![](https://github.com/openfaas/faas/blob/master/docs/of-workflow.png?raw=true)
+
 ![](https://github.com/openfaas/openfaas-cloud/raw/master/docs/ofc-github-conceptual.png)
 
 **PLONK Stack**
