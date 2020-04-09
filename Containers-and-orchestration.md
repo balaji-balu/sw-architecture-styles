@@ -1,6 +1,15 @@
 # Containers & Orchestration
 
-**Managed Kubernetes**
+## Kubernetes
+[source: wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/be/Kubernetes.png)
+
+### Pod Networking
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pod-networking.png/700px-Pod-networking.png)
+
+### Managed Kubernetes
 
 ![](https://k8spin.cloud/assets/images/illustrations/kubernetes_managed.svg)
 
