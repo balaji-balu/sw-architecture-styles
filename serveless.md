@@ -21,6 +21,8 @@
 
 ### OpenFaaS
 
+![](https://github.com/openfaas/faas/raw/master/docs/of-layer-overview.png)
+
 **[OpenFaaS open cloud ci/cd workflow](https://github.com/openfaas/openfaas-cloud)**
 
 ![](https://github.com/openfaas/openfaas-cloud/raw/master/docs/ofc-github-conceptual.png)
