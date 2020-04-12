@@ -5,13 +5,17 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/be/Kubernetes.png)
 
+![](https://k8spin.cloud/assets/images/illustrations/kubernetes_managed.svg)
+
 ### Pod Networking
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pod-networking.png/700px-Pod-networking.png)
 
 ### Managed Kubernetes
 
-![](https://k8spin.cloud/assets/images/illustrations/kubernetes_managed.svg)
+#### Rancher 
+
+![](https://rancher.com/docs/img/rancher/rancher-architecture-rancher-api-server.svg)
 
 **Rio**
 
