@@ -3,6 +3,8 @@
 ## Overview
 > Serverless computing refers to the concept of building and running applications that do not require server management. It describes a finer-grained deployment model where applications, bundled as one or more functions, are uploaded to a platform and then executed, scaled, and billed in response to the exact demand needed at the moment. **[Cloud Native Computing Foundation - Serverless overview](https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview)**
 
+![](https://cdn.thenewstack.io/media/2017/02/6637be9e-faas.png)
+
 1. **[Introduction to Serverless Microservices by Jeremy](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)**
 
 2. **[Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)**
