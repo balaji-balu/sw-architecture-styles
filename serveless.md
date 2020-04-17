@@ -58,6 +58,8 @@
 
 3. **OpenWhisk**
 
+![](https://cdn.thenewstack.io/media/2017/02/2ae03e6a-ow-arch-2.png)
+
 ![](https://github.com/apache/incubator-openwhisk/raw/master/docs/images/OpenWhisk_flow_of_processing.png)
 
 4. **Galactic Fog Serverless platform architecture**
