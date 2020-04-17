@@ -5,6 +5,8 @@
 
 ![](https://cdn.thenewstack.io/media/2017/02/6637be9e-faas.png)
 
+[Serverless Architectures on martin fowler's blog](https://martinfowler.com/articles/serverless.html)
+
 1. **[Introduction to Serverless Microservices by Jeremy](https://www.jeremydaly.com/an-introduction-to-serverless-microservices/)**
 
 2. **[Serverless microservice patterns](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)**
