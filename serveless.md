@@ -48,6 +48,10 @@
 
 ![](https://raw.githubusercontent.com/openfaas/openfaas-cloud/master/docs/conceptual-overview.png)
 
+## Lightbend State management for serverless 
+
+![](https://d3gnpvjw8j16uq.cloudfront.net/assets/images/svg/diagrams/908ff7b991c9ced2a1abecbdc6c1bacf-cloudstate-by-akka-cluster.svg)
+
 ## Examples
 
 1. [Airline App on AWS Serveless](https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-introduction)
