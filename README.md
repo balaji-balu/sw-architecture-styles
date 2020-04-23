@@ -30,6 +30,7 @@ Common cloud deployments
 
 ![](https://www.cloudflare.com/resources/images/slt3lc6tev37/2FUanuH7qCS1oycfYY4IMn/6b790f0e98674ce50c37cf8909d8a4b2/multicloud-vs-hybrid-cloud.svg)
 
+![Google Athena](https://cloud.google.com/anthos/images/anthos-13-components.svg?hl=ru)
 
 ## Microservices 
 
