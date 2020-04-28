@@ -45,6 +45,10 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 
 ![](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/media/microservices-architecture.png)
 
+## Application Platform 
+
+![](https://www.openshift.com/hubfs/images/illustrations/marketure-diagram.svg)
+
 ## Multi-Tenant 
 
 ![](https://docs.microsoft.com/en-us/azure/sql-database/media/saas-tenancy-welcome-wingtip-tickets-app/three-tenancy-patterns.png)
