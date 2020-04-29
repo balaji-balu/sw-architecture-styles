@@ -11,9 +11,13 @@ Software Architecture Design and styles
 
 4. [Containers and Orchestration](Containers-and-orchestration.md) 
 
-5. [Data Management]()
+5. [Data Management](data-mgmt.md)
 
-5. [GraphQL](Graphql.md) 
+6. [GraphQL](Graphql.md) 
+
+7. [Patterns](patterns.md]
+
+
 
 ## Overview
 
