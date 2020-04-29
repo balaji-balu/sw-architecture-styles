@@ -15,7 +15,7 @@ Software Architecture Design and styles
 
 6. [GraphQL](Graphql.md) 
 
-7. [Patterns](patterns.md]
+7. [Patterns](patterns.md)
 
 
 
