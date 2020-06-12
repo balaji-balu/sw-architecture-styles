@@ -10,3 +10,11 @@ From building microliths to designing reactive microsystems. By Jonas Bonér Jun
 [Designing Event First Microservices - Lightbend (InfoQ Presentation)](https://www.infoq.com/presentations/microservices-events-first-design) 
 
 ![](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/media/microservices-architecture.png)
+
+### Dapr 
+
+[Dapr](https://github.com/dapr)
+
+![](https://github.com/dapr/docs/blob/master/images/overview.png)
+
+![](https://github.com/dapr/samples/raw/master/2.hello-kubernetes/img/Architecture_Diagram.png)
