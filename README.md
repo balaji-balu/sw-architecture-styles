@@ -19,6 +19,12 @@ Software Architecture Design and styles
 
 8. [Observability](observability.md)
 
+9. [Service Meshes and API Gateway](services-mesh-api-gateway.md)
+
+10.[CI/CD](ci-cd.md)
+
+11.[Infrastructure](Infrastructure.md)
+
 Further Reading
 
 [Architecture Styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) Microsoft
