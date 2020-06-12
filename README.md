@@ -21,9 +21,9 @@ Software Architecture Design and styles
 
   09. [Service Meshes and API Gateway](services-mesh-api-gateway.md)
 
-  10.[CI/CD](ci-cd.md)
+  10. [CI/CD](ci-cd.md)
 
-  11.[Infrastructure](Infrastructure.md)
+  11. [Infrastructure](Infrastructure.md)
 
 Further Reading
 
