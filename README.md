@@ -17,6 +17,8 @@ Software Architecture Design and styles
 
 7. [Patterns](patterns.md)
 
+Further Reading
 
+[Architecture Styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) Microsoft
 
 
