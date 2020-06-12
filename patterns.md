@@ -24,3 +24,5 @@ from Azure Architecture Team
 [Performance and Scalability Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/performance-scalability)
 
 [Resilency Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/resiliency)
+
+[Security Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/security)
