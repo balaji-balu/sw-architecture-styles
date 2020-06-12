@@ -25,7 +25,8 @@ Software Architecture Design and styles
 
   11. [Infrastructure](Infrastructure.md)
 
-Further Reading
+
+**Further Reading**
 
 [Architecture Styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) Microsoft
 
