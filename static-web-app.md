@@ -9,3 +9,6 @@ courtesy: [Envisioning the future of the Jamstack](https://www.netlify.com/blog/
 
 ![](https://technically.dev/images/jamstack/diagram.jpg)
 courtesy: [The JAMStack and the startups building it](https://technically.dev/posts/the-jamstack-and-the-startups-building-it.html)
+
+![](https://miro.medium.com/max/2000/1*3fuXSoEr70NRwrqAdpOZVg.png)
+Courtesy:[Contemporary Front end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
