@@ -27,6 +27,9 @@ Software Architecture Design and styles
 
   12. [Static Web Apps](static-web-apps.md)
   
+  13. [IoT](iot.md)
+  
+  
 **Further Reading**
 
 [Architecture Styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/) Microsoft
