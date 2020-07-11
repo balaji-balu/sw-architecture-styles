@@ -7,6 +7,8 @@
 
 ![](https://k8spin.cloud/assets/images/illustrations/kubernetes_managed.svg)
 
+![](https://www.magalix.com/hs-fs/hubfs/kubernetes%20ecosystem.png?width=1200&name=kubernetes%20ecosystem.png)
+
 ### Pod Networking
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pod-networking.png/700px-Pod-networking.png)
