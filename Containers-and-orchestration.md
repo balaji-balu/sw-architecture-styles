@@ -8,6 +8,7 @@
 ![](https://k8spin.cloud/assets/images/illustrations/kubernetes_managed.svg)
 
 ![](https://www.magalix.com/hs-fs/hubfs/kubernetes%20ecosystem.png?width=1200&name=kubernetes%20ecosystem.png)
+courtesy [magalix](https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters)
 
 ### Pod Networking
 
