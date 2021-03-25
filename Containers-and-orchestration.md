@@ -36,6 +36,10 @@ courtesy [magalix](https://www.magalix.com/blog/kubernetes-101-concepts-and-why-
 
 ![](https://pbs.twimg.com/media/EWTJcdYWkAEutAz?format=jpg&name=large)
 
-## Volumes
+## Volumes and Data Management
 
 ![](https://bdlguu0syu1idj5d2b4m53mv-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/MayaData.png)
+
+![](https://blog.kasten.io/hubfs/Kasten_January2020/Images/Storage%20And%20Data%20Services%20Stack.png)
+
+Courtesy: [Kasten](https://blog.kasten.io/posts/demystifying-cloud-native-data-management-layers-of-operation)
