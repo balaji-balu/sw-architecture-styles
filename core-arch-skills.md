@@ -1,0 +1,5 @@
+* Requirements Analysis: The ability to analyze functional and non-functional requirements to identify the core components, users (personas), and external systems involved in the system.  
+* Abstraction and Decomposition: Expertise in breaking down complex systems into logical, hierarchical levels of abstraction (System Context, Containers, Components, and optional Code level) as defined by the C4 model.  
+* Architectural Pattern Recognition: Knowledge of various architectural patterns (e.g., microservices, event-driven, monolithic) to guide the system design and ensure the diagrams accurately reflect chosen patterns.  
+* Technology Knowledge: Understanding the technologies used (e.g., specific databases, message brokers, APIs, frameworks) to accurately label elements and communication protocols in the diagrams (e.g., "JSON/HTTPS", "JDBC").  
+* System Analysis (for existing codebases): The skill to analyze existing codebases, identify current architecture patterns, and retrospectively generate documentation that reflects the actual implementation. 
